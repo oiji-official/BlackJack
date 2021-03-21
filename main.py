@@ -1,4 +1,4 @@
-############### Our Blackjack House Rules #####################
+############### The Blackjack House Rules #####################
 
 ## The deck is unlimited in size. 
 ## There are no jokers. 
